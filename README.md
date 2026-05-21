@@ -1,15 +1,9 @@
 # MLOps Kubernetes & Kubeflow Deployment Pipeline
 
 ## 🎓 Student Profile
-* **Name:** [Your Name]
-* **SAP ID:** [Your SAP ID]
-* **Section:** [Your Section]
-* **Semester:** [Your Semester]
+* **Name:** [Anas saleem]
+* **SAP ID:** [70150802]
 
----
-
-## 📺 Project Demonstration Video
-▶️ **[Click Here to Watch the Project Demonstration Video](PASTE_YOUR_GOOGLE_DRIVE_OR_YOUTUBE_LINK_HERE)**
 
 ---
 
