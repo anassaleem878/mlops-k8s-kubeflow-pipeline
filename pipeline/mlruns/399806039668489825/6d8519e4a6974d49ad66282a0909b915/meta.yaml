@@ -1,0 +1,14 @@
+artifact_uri: file:///home/anas/mlops-k8s-kubeflow-pipeline/pipeline/mlruns/399806039668489825/6d8519e4a6974d49ad66282a0909b915/artifacts
+end_time: 1779333396522
+entry_point_name: ''
+experiment_id: '399806039668489825'
+lifecycle_stage: active
+run_id: 6d8519e4a6974d49ad66282a0909b915
+run_name: resilient-ant-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779333391962
+status: 3
+tags: []
+user_id: anas

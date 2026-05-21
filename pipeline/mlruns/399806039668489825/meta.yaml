@@ -1,0 +1,8 @@
+artifact_location: file:///home/anas/mlops-k8s-kubeflow-pipeline/pipeline/mlruns/399806039668489825
+creation_time: 1779333391884
+experiment_id: '399806039668489825'
+last_update_time: 1779333391884
+lifecycle_stage: active
+name: Iris_Kubeflow_Pipeline
+trace_location: null
+workspace: default

@@ -1,0 +1,16 @@
+creation_timestamp: 1779333396493
+current_stage: Production
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1779333396516
+model_id: m-e4eb55edf89448f98ebdbad38a1a17c1
+name: IrisRandomForestModel
+run_id: 6d8519e4a6974d49ad66282a0909b915
+run_link: null
+source: models:/m-e4eb55edf89448f98ebdbad38a1a17c1
+status: READY
+status_message: null
+storage_location: file:///home/anas/mlops-k8s-kubeflow-pipeline/pipeline/mlruns/399806039668489825/models/m-e4eb55edf89448f98ebdbad38a1a17c1/artifacts
+user_id: null
+version: 1
+workspace: default

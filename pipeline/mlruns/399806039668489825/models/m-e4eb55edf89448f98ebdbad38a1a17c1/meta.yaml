@@ -1,0 +1,10 @@
+artifact_location: file:///home/anas/mlops-k8s-kubeflow-pipeline/pipeline/mlruns/399806039668489825/models/m-e4eb55edf89448f98ebdbad38a1a17c1/artifacts
+creation_timestamp: 1779333392164
+experiment_id: '399806039668489825'
+last_updated_timestamp: 1779333396477
+model_id: m-e4eb55edf89448f98ebdbad38a1a17c1
+model_type: null
+name: model
+source_run_id: 6d8519e4a6974d49ad66282a0909b915
+status: 2
+status_message: null

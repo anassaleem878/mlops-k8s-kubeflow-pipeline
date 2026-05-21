@@ -1,0 +1,23 @@
+artifact_path: file:///home/anas/mlops-k8s-kubeflow-pipeline/pipeline/mlruns/399806039668489825/models/m-e4eb55edf89448f98ebdbad38a1a17c1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-e4eb55edf89448f98ebdbad38a1a17c1
+model_size_bytes: 177393
+model_uuid: m-e4eb55edf89448f98ebdbad38a1a17c1
+prompts: null
+run_id: 6d8519e4a6974d49ad66282a0909b915
+utc_time_created: '2026-05-21 03:16:32.176420'
